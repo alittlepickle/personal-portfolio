@@ -1,7 +1,7 @@
 body{
 font-family : Roboto;
-bgcolor : rgba(0,50,250, 0.8)
+background-color : rgba(0,50,250, 0.8)
 }
 .tagline{
-bgcolor : blue;
+background-color : blue;
 }
