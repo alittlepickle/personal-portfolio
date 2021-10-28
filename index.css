@@ -1,1 +1,6 @@
-
+body{
+bgcolor : rgba(0,50,250, 0.8)
+}
+.tagline{
+bgcolor : blue;
+}
